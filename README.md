@@ -329,8 +329,7 @@ http://localhost:3000/api/users/:userId (GET) esta ruta permite obtener el usuar
                 "email":"julia@wewhaledev.com",
                 "image":null,
                 "__v":0
-            }
-    ]
+     }
 }
 ```
 
